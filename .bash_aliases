@@ -1,4 +1,5 @@
 alias c='clear'
+alias hig='history | grep'
 alias gr='grep -i'
 alias l='ls -CF'
 alias cd..='cd ..'
