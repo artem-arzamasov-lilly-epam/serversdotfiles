@@ -1,5 +1,7 @@
 alias c='clear'
 alias hig='history | grep'
+alias psg='ps aux | grep'
+alias ai='apt-get install'
 alias gr='grep -i'
 alias l='ls -CF'
 alias cd..='cd ..'
