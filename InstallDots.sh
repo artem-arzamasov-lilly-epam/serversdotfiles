@@ -1,6 +1,6 @@
 #!/bin/bash
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-apt-get update && apt-get install  zsh curl -y
+apt-get update && apt-get install zsh curl -y
 
 cp $DIR/.bash_aliases ~/ -f
 cp $DIR/.vimrc ~/ -f

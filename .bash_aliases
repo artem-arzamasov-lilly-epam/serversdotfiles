@@ -30,10 +30,10 @@ alias moer='more'
 alias moew='more'
 alias kk='ll'
 
-#alias ai='sudo apt-get install'
-#alias as='apt-cache search'
-#alias au='sudo apt-get update'
-#alias ag='sudo apt-get upgrade'
+alias ai='sudo apt-get install'
+alias as='apt-cache search'
+alias au='sudo apt-get update'
+alias ag='sudo apt-get upgrade'
 # List only directories and symbolic
 
 # links that point to directories
