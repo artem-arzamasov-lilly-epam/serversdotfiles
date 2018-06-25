@@ -43,3 +43,15 @@ alias lsa='ls -ld .*'
 # web cat
 alias wcat='wget -q -O -'
 alias dog=wcat
+
+alias ehosts='sudo vim /etc/hosts'
+
+## git aliases
+ alias gs='git status'
+ alias gcm='git commit -v -m'
+ alias gl='git pull'
+ alias gpom='git push origin master'
+ alias gp='git push'
+ alias ga='git add'
+ alias grm='git rm'
+ alias gpp='git pull && git push'
