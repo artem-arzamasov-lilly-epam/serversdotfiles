@@ -1,3 +1,5 @@
+alias tf-backend ='bash ~/.bash_scrtipts/tf-backend.sh'
+alias tf-frontend ='bash ~/.bash_scrtipts/tf-frontend.sh'
 alias c='clear'
 alias hig='history | grep'
 alias psg='ps aux | grep'
