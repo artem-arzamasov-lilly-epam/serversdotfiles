@@ -34,3 +34,5 @@ provider "aws" {
   profile = "$AWS_PROFILE"
 }
 EOF
+
+echo "frontend for terraform was created."
