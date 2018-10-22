@@ -8,7 +8,7 @@ cd /tmp
 cp serversdotfiles/.zshrc ~/ -f
 cp serversdotfiles/.bash_aliases ~/ -f
 cp serversdotfiles/.zshrc ~/ -f
-cp serversdotfiles/.bash_scrtipts ~/ -f
+cp serversdotfiles/.bash_scrtipts/* ~/ -f
 rm -rf serversdotfiles
 zsh
 
